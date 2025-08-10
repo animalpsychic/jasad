@@ -1,6 +1,6 @@
 ---
 title: "Dukun Patah Tulang di Indonesia: Antara Tradisi, Kepercayaan, dan Tantangan Medis Modern"
-description: "Pengobatan tradisional, khususnya praktik "dukun patah tulang" atau "sangkal putung"
+description: "Pengobatan tradisional, khususnya praktik dukun patah tulang atau sangkal putung"
 pubDate: "2025-08-10"
 ---
 

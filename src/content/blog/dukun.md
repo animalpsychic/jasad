@@ -177,107 +177,12 @@ Beberapa faktor utama yang mempertahankan kepercayaan masyarakat terhadap dukun 
 
 | Aspek Perbandingan | Dukun (Indonesia) | Shaman (Global) | Tabib (Indonesia) | Medis Modern (Dokter/Bidan) |
 | --- | --- | --- | --- | --- |
-| **Definisi Umum** | 
-Orang dengan keahlian supranatural/spiritual, "orang pintar", penyembuh tradisional, medium roh, ahli adat, terkadang penyihir
-
- | 
-
-Praktisi agama yang melibatkan komunikasi dengan dunia roh, seringkali untuk penyembuhan atau ramalan
-
- | 
-
-Seseorang yang mengobati dengan cara tradisional (herbal, doa, mantra), terkadang dengan daya batin
-
- | 
-
-Profesional kesehatan berlisensi berdasarkan ilmu pengetahuan ilmiah
-
- |
-| **Sumber Kekuatan/Legitimasi** | 
-
-Kepercayaan, intuisi, warisan budaya, komunikasi dengan makhluk halus/roh leluhur, kekuatan di luar nalar
-
- | 
-
-Warisan turun-temurun, pilihan roh/spirit, pengalaman spiritual
-
- | 
-
-Warisan turun-temurun, pengetahuan herbal, doa-doa (terkadang dari Al-Qur'an), daya batin
-
- | 
-
-Pendidikan formal, riset ilmiah, bukti empiris, lisensi praktik
-
- |
-| **Metode Pengobatan** | 
-
-Mantra, jampi-jampi, doa, ritual, ramuan herbal, benda magis (kemenyan, keris, susuk), komunikasi spiritual
-
- | 
-
-Ritual, *trance*, *soul flight*, *animal sacrifice*, herbalisme, kata-kata suci
-
- | 
-
-Ramuan herbal, mantra/doa, pemijatan, sesajen
-
- | 
-
-Diagnosis berbasis ilmiah, obat-obatan kimia, prosedur bedah, teknologi medis
-
- |
-| **Fokus/Pendekatan** | 
-
-Holistik (fisik, mental, spiritual, sosial), penyelesaian masalah hidup, keberuntungan
-
- | 
-
-Holistik (fisik, mental, emosional, spiritual), restorasi keseimbangan, harmoni
-
- | 
-
-Fisik (penyakit), kadang spiritual/gaib
-
- | 
-
-Fisik (penyakit), berbasis patologi, seringkali spesifik organ/sistem
-
- |
-| **Persepsi Sosial** | 
-
-Dihormati, ditakuti, dicari, kadang distigma, dianggap sakti
-
- | 
-
-Dihormati, memiliki tanggung jawab besar, kadang terisolasi
-
- | 
-
-Dihormati, diandalkan, bagian integral masyarakat
-
- | 
-
-Dipercaya, otoritatif, modern, ilmiah
-
- |
-| **Tantangan/Isu** | 
-
-Penipuan, konotasi negatif (ilmu hitam), legalitas, pembuktian
-
- | 
-
-Sering disalahartikan, tantangan adaptasi di dunia modern
-
- | 
-
-Kurangnya regulasi formal, standarisasi
-
- | 
-
-Aksesibilitas, biaya, kurangnya pendekatan holistik
-
- |
+| **Definisi Umum** | Orang dengan keahlian supranatural/spiritual, "orang pintar", penyembuh tradisional, medium roh, ahli adat, terkadang penyihir | Praktisi agama yang melibatkan komunikasi dengan dunia roh, seringkali untuk penyembuhan atau ramalan | Seseorang yang mengobati dengan cara tradisional (herbal, doa, mantra), terkadang dengan daya batin | Profesional kesehatan berlisensi berdasarkan ilmu pengetahuan ilmiah |
+| **Sumber Kekuatan/Legitimasi** | Kepercayaan, intuisi, warisan budaya, komunikasi dengan makhluk halus/roh leluhur, kekuatan di luar nalar | Warisan turun-temurun, pilihan roh/spirit, pengalaman spiritual | Warisan turun-temurun, pengetahuan herbal, doa-doa (terkadang dari Al-Qur'an), daya batin | Pendidikan formal, riset ilmiah, bukti empiris, lisensi praktik |
+| **Metode Pengobatan** | Mantra, jampi-jampi, doa, ritual, ramuan herbal, benda magis (kemenyan, keris, susuk), komunikasi spiritual | Ritual, *trance*, *soul flight*, *animal sacrifice*, herbalisme, kata-kata suci | Ramuan herbal, mantra/doa, pemijatan, sesajen | Diagnosis berbasis ilmiah, obat-obatan kimia, prosedur bedah, teknologi medis |
+| **Fokus/Pendekatan** | Holistik (fisik, mental, spiritual, sosial), penyelesaian masalah hidup, keberuntungan | Holistik (fisik, mental, emosional, spiritual), restorasi keseimbangan, harmoni | Fisik (penyakit), kadang spiritual/gaib | Fisik (penyakit), berbasis patologi, seringkali spesifik organ/sistem |
+| **Persepsi Sosial** | Dihormati, ditakuti, dicari, kadang distigma, dianggap sakti | Dihormati, memiliki tanggung jawab besar, kadang terisolasi | Dihormati, diandalkan, bagian integral masyarakat | Dipercaya, otoritatif, modern, ilmiah |
+| **Tantangan/Isu** | Penipuan, konotasi negatif (ilmu hitam), legalitas, pembuktian | Sering disalahartikan, tantangan adaptasi di dunia modern | Kurangnya regulasi formal, standarisasi | Aksesibilitas, biaya, kurangnya pendekatan holistik |
 
 ### C. Fenomena Dukun di Era Digital dan Isu Penipuan
 
@@ -319,50 +224,11 @@ Kriminalisasi perbuatan santet dan praktik perdukunan pada umumnya bertujuan unt
 
 | Aspek Hukum | KUHP Lama (Pasal 545, 546, 547) | KUHP Baru (Pasal 252 KUHP 2023) |
 | --- | --- | --- |
-| **Cakupan** | 
-Mengatur praktik perdukunan, namun jarang digunakan sebagai dasar hukum
-
- | 
-
-Mengatur tindak pidana bagi yang menyatakan diri punya kekuatan gaib dan perbuatannya dapat menimbulkan penyakit, kematian, atau penderitaan
-
- |
-| **Definisi Santet** | 
-
-Tidak dijelaskan secara eksplisit, sulit dibuktikan
-
- | 
-
-Tidak tertulis secara eksplisit, namun dimasukkan dalam kategori "kekuatan gaib"
-
- |
-| **Sanksi** | 
-
-Jarang diterapkan
-
- | 
-
-Pidana penjara paling lama 1 tahun 6 bulan atau denda Kategori IV; ditambah 1/3 jika untuk keuntungan/kebiasaan
-
- |
-| **Tujuan Kriminalisasi** | 
-
-Tidak efektif dalam mengatasi masalah
-
- | 
-
-Mencegah penipuan, mencegah pencarian bantuan untuk kejahatan, mencegah main hakim sendiri, mendorong rasionalitas, melindungi korban
-
- |
-| **Tantangan Implementasi** | 
-
-Jarang digunakan, tidak sesuai harapan
-
- | 
-
-Sulit dibuktikan karena aspek gaib, potensi penyalahgunaan, kurangnya bukti ilmiah
-
- |
+| **Cakupan** | Mengatur praktik perdukunan, namun jarang digunakan sebagai dasar hukum | Mengatur tindak pidana bagi yang menyatakan diri punya kekuatan gaib dan perbuatannya dapat menimbulkan penyakit, kematian, atau penderitaan |
+| **Definisi Santet** | Tidak dijelaskan secara eksplisit, sulit dibuktikan | Tidak tertulis secara eksplisit, namun dimasukkan dalam kategori "kekuatan gaib" |
+| **Sanksi** | Jarang diterapkan | Pidana penjara paling lama 1 tahun 6 bulan atau denda Kategori IV; ditambah 1/3 jika untuk keuntungan/kebiasaan |
+| **Tujuan Kriminalisasi** | Tidak efektif dalam mengatasi masalah | Mencegah penipuan, mencegah pencarian bantuan untuk kejahatan, mencegah main hakim sendiri, mendorong rasionalitas, melindungi korban |
+| **Tantangan Implementasi** | Jarang digunakan, tidak sesuai harapan | Sulit dibuktikan karena aspek gaib, potensi penyalahgunaan, kurangnya bukti ilmiah |
 
 ### B. Tantangan Pembuktian dan Implementasi Hukum
 
